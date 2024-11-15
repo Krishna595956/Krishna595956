@@ -1,7 +1,7 @@
 [![MasterHead](https://www.bing.com/th/id/OGC.3f83ff76d2a4e678627b15efd4793d79?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f81%2f17%2f8b%2f81178b47a8598f0c81c4799f2cdd4057.gif&ehk=MlCgBGLgn1O9eI5oiVtJ1zIi%2fUXWNp7LOleUF1BtVdg%3d)](https://leetcode.com/u/krishna_reddy79939/)
 <h1 align="center">Hi 👋, I'm Krishna Reddy</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna595956&label=Profile%20views&color=0e75b6&style=flat" alt="krishna595956" /> </p>
 
