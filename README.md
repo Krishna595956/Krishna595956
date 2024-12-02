@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chinthaguntakrishnareddy185@gmail.com**
 
-- ⚡ Fun fact **Programmers Spend More Time Googling Than Coding**
+- ⚡ Fun fact **Ctrl+A, Ctrl+C, and Ctrl+V: the holy trinity of programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
